@@ -1,0 +1,9 @@
+### 文件结构
+- /build 创建型模式
+  - /singleton 单例模式
+  - /factory 工厂模式
+  - /prototype 原型模式
+  - /build 建造者模式
+- /structure 结构型模式
+  - /proxy 代理模式
+- /behavior 行为型模式
