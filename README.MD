@@ -6,4 +6,5 @@
   - /build 建造者模式
 - /structure 结构型模式
   - /proxy 代理模式
+  - /adapter 适配器模式
 - /behavior 行为型模式
