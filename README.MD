@@ -7,4 +7,6 @@
 - /structure 结构型模式
   - /proxy 代理模式
   - /adapter 适配器模式
+  - /decorator 装饰模式
+  - /bridge 桥接模式
 - /behavior 行为型模式
