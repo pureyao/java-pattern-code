@@ -9,4 +9,5 @@
   - /adapter 适配器模式
   - /decorator 装饰模式
   - /bridge 桥接模式
+  - /facade 外观模式
 - /behavior 行为型模式
