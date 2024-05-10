@@ -10,4 +10,5 @@
   - /decorator 装饰模式
   - /bridge 桥接模式
   - /facade 外观模式
+  - /combination 组合模式
 - /behavior 行为型模式
