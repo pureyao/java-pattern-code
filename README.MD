@@ -13,3 +13,4 @@
   - /combination 组合模式
   - /flyweight 享元模式
 - /behavior 行为型模式
+  - /template 模板方法模式
