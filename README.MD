@@ -14,3 +14,4 @@
   - /flyweight 享元模式
 - /behavior 行为型模式
   - /template 模板方法模式
+  - /strategy 策略模式
