@@ -15,3 +15,4 @@
 - /behavior 行为型模式
   - /template 模板方法模式
   - /strategy 策略模式
+  - /responsibility 职责链模式
