@@ -16,3 +16,4 @@
   - /template 模板方法模式
   - /strategy 策略模式
   - /responsibility 职责链模式
+  - /state 状态模式
