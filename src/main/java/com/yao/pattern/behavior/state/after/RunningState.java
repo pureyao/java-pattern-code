@@ -6,23 +6,25 @@ package com.yao.pattern.behavior.state.after;
  * @date 2024/6/3 21:48
  */
 public class RunningState extends LiftState {
-    @Override
-    public void open() {
 
+    public void open()
+    {
+        //do nothing
     }
 
-    @Override
-    public void close() {
-
+    public void close()
+    {
+        //do nothing
     }
 
-    @Override
-    public void run() {
-
+    public void run()
+    {
+        System.out.println("电梯运行...");
     }
 
-    @Override
-    public void stop() {
-
+    public void stop()
+    {
+        super.context.setLiftState(Context.STOPPING_STATE);
+        super.context.getLiftState().stop();
     }
 }

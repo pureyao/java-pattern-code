@@ -8,7 +8,7 @@ package com.yao.pattern.behavior.state.after;
 public class OpenningState extends LiftState {
     @Override
     public void open() {
-        System.out.println("电梯开启...");
+        System.out.println("电梯门开启...");
     }
 
     @Override
