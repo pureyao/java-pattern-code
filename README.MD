@@ -17,3 +17,4 @@
   - /strategy 策略模式
   - /responsibility 职责链模式
   - /state 状态模式
+  - /observer 观察者模式
